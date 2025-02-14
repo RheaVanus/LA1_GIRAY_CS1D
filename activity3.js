@@ -5,5 +5,5 @@ let result = favNumb + undefined;//This declares a variable named result. The va
 
 console.log(isJsProgrammingLanguage); //This prints the boolean value "true".
 console.log(isJsHard)//This prints the boolean value "false".
-console.log(favNumb)// This prints the int value of 9.
+console.log(favNumb)// This prints the number value of 9.
 console.log(result);//This prints the NaN (Not a Number) since we are adding 9 to undefined, and undefined is not a number that's why it won't add the two values.
