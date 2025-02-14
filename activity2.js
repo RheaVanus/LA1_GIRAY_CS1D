@@ -1,5 +1,5 @@
-let firstFavNum = 9;//This line uses let to declare the variable name firstFavNum which has a value of 9.
-let secondFavNum = 30;//This line uses let to declare variable name secondFavNum which has a value of 30.
+let firstFavNum = 9;//This line uses let to declare the variable name firstFavNum which has a number value of 9.
+let secondFavNum = 30;//This line uses let to declare variable name secondFavNum which has a number value of 30.
 
 console.log(firstFavNum + secondFavNum);// Calculates the sum of firstFavNum and secondFavNum. Then print/show the result, which is 39.
 console.log(firstFavNum - secondFavNum);//Calculates the difference of firstFavNum and secondFavNum. Then print the result, which is -21.
